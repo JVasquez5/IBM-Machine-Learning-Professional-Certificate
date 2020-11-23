@@ -14,7 +14,12 @@
   
 ## Project 2:  Supervised Learning: Regression Project
 * Target Goal
-  * Create three linear regression models which should be variations that cover using a simple linear regression as a baseline, adding polynomial effects, and using a regularization regression. Preferably, all use the same training and test splits, or the same cross-validation method.
+  * Create three linear regression models, all use the same training and test splits,: 
+    * A baseline simple linear regression,
+    * A OLS linear regression,
+    * A Ridge linear regression,
+    * A Lasso linear regression,
+    * A polynomial linear regression.
 
 * (Dataset Links):
   * https://www.kaggle.com/mirichoi0218/insurance
