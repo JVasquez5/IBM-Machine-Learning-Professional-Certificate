@@ -14,7 +14,7 @@
   
 ## Project 2:  Supervised Learning: Regression Project
 * Target Goal
-  * Create three linear regression models, all use the same training and test splits,: 
+  * Create several linear regression models, all use the same training and test splits,: 
     * A baseline simple linear regression,
     * A OLS linear regression,
     * A Ridge linear regression,
