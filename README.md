@@ -12,7 +12,7 @@
 * (Medium Blog Post)
   * https://jonathan3825vasquez.medium.com/ibm-coursera-machine-learning-professional-certificate-cb848908b37a
   
-## Project 2:  Exploratory Data Analysis Project
+## Project 2:  Supervised Learning: Regression Project
 * Target Goal
   * Create three linear regression models which should be variations that cover using a simple linear regression as a baseline, adding polynomial effects, and using a regularization regression. Preferably, all use the same training and test splits, or the same cross-validation method.
 
